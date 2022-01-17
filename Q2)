@@ -1,0 +1,32 @@
+#2. Write a Python function to produce the outputs such as:
+'''(a)  1
+        21
+        321
+        4321
+'''     
+     
+     
+#sol of ques 2
+#a)
+
+print("1")
+print("21")
+print("321")
+print("4321")
+
+'''b)    1
+      121
+     12321
+    1234321
+     12321
+      121
+       1
+'''
+       
+print("   1   ")
+print("  121  ")
+print(" 12321 ")
+print("1234321")
+print(" 12321 ")
+print("  121  ")
+print("   1   ")
